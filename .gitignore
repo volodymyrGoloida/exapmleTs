@@ -1,0 +1,12 @@
+node_modules
+logs
+dist
+public
+.env
+*.zip
+*.drawio
+.jest
+.idea
+.DS_Store
+coverage
+.env-cmdrc
